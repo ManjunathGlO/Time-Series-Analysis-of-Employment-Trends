@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image Jul 5, 2026, 11_44_24 PM" src="https://github.com/user-attachments/assets/ef4859cb-4095-4c98-acdb-f73d123feb8d" />
+
+
 # 📈 Time Series Analysis of Employment Trends
 
 A time series analytics project that explores unemployment trends across multiple industries using employment data. The project performs trend analysis, seasonality decomposition, correlation analysis, and visualization to uncover employment patterns and industry-wise unemployment behavior over time. :contentReference[oaicite:0]{index=0}
