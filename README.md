@@ -1,5 +1,11 @@
 <img width="1536" height="1024" alt="ChatGPT Image Jul 5, 2026, 11_44_24 PM" src="https://github.com/user-attachments/assets/ef4859cb-4095-4c98-acdb-f73d123feb8d" />
 
+<h3 align="center">
+  <a href="./TimeSeriesAnalysis.ipynb">
+    <strong>📓 View Jupyter Notebook »</strong>
+  </a>
+</h3>
+
 
 # 📈 Time Series Analysis of Employment Trends
 
