@@ -151,7 +151,10 @@ This project demonstrates end-to-end time series analysis by exploring unemploym
 
 ## 👤 Author
 
-- Manjunath G L
+**Manjunath G L**  
+> - 💼 Aspiring Data Analyst
+> - 📍 Bengaluru, India 
+> - 📧 Email: manjunathgl064@gmail.com 
 
 If you want to contact me, you can reach me through below handles.
 
